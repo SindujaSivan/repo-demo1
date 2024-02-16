@@ -1,1 +1,2 @@
 The first line in file 5
+Adding another line in file 5 to check the staged and normal diff commands
