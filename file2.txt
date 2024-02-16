@@ -1,2 +1,0 @@
-Hi, This is the second file created
-I am adding a line to check the diff command
