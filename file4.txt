@@ -1,0 +1,1 @@
+Recreating file4 to check on git rm command
